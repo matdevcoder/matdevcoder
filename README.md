@@ -86,6 +86,15 @@ aportar en lo maximo en Proyectos y en un equipo de trabajo.
 
 <br>
 
+### ⚡ Handle a Project
+- TDD - Test Driven Development
+- DDD - Domain Driven Design
+- Scrum - Agile Methodology
+- SOLID Principles
+- Defensive Programming
+
+<br>
+
 ## ⚡ Technology Tools
 
 <br>

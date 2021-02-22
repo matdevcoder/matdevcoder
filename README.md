@@ -83,6 +83,8 @@ aportar en lo maximo en Proyectos y en un equipo de trabajo.
 <img src="iconos_conocimientos/mongodb.svg" width="25px"> MongoDB
 <br>
 <img src="iconos_conocimientos/apachemaven.svg" width="25px"> Maven
+<br>
+<img src="iconos_conocimientos/json.svg" width="25px"> JSON
 
 <br>
 

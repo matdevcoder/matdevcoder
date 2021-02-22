@@ -31,14 +31,14 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/-Mateo Garcia G-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:mgarciag@cifpfbmoll.eu" width="130px" style="padding:10px">
 
 <a href="https://www.linkedin.com/in/mateogarciag">
-<img src="https://img.shields.io/badge/-Linkedin Profile-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mateogarciag" width="150px" style="padding:10px">
+<img src="https://img.shields.io/badge/-Linkedin Profile-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://mateogarciag.github.io/MateoGarciaG/" width="150px" style="padding:10px">
 </a>
 
 <a href="https://github.com/MateoGarciaG?tab=repositories">
 <img src="https://img.shields.io/badge/-GitHub Profile-grey?style=flat&logo=github&logoColor=white&link=https://github.com/MateoGarciaG?tab=repositories" width="130px" style="padding:10px">
 </a>
 
-<a href="">
+<a href="https://mateogarciag.github.io/MateoGarciaG/">
 <img src="https://img.shields.io/badge/curriculum-vitae-blue?style=flat&link=https://github.com/MateoGarciaG?tab=repositories/" width="130px" style="padding:10px">
 </a>
 

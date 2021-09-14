@@ -38,9 +38,9 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/-GitHub Profile-grey?style=flat&logo=github&logoColor=white&link=https://github.com/MateoGarciaG?tab=repositories" width="130px" style="padding:10px">
 </a>
 
-<a href="https://mateogarciag.github.io/MateoGarciaG/">
+<!-- <a href="https://mateogarciag.github.io/MateoGarciaG/">
 <img src="https://img.shields.io/badge/curriculum-vitae-blue?style=flat&link=https://github.com/MateoGarciaG?tab=repositories/" width="130px" style="padding:10px">
-</a>
+</a> --> 
 
 ---
 ## Hey <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, Soy Mateo Garcia, actualmente soy estudiante de un FP Desarrollo de Aplicaciones Web Dual en el instituto CIFP Francesc de Borja Moll. 👨‍💻

@@ -43,28 +43,27 @@ Here are some ideas to get you started:
 </a> --> 
 
 ---
-## Hey <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, Soy Mateo Garcia, actualmente soy estudiante de un FP Desarrollo de Aplicaciones Web Dual en el instituto CIFP Francesc de Borja Moll. 👨‍💻
+## Hey <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, Soy Mateo Garcia, Desarrollador Web. 👨‍💻
 
-Me presento como una persona proactiva, con buena actitud y siempre dispuesto a colaborar en lo que sea posible. Mi perfil es poder realizar las tareas que se me asignen con buen desempeño y esfuerzo, donde poder
-aportar en lo maximo en Proyectos y en un equipo de trabajo.
+Me presento como una persona proactiva, con buena actitud y siempre dispuesto a colaborar en lo que sea posible. Mi perfil es poder realizar las tareas que se me asignen con buen desempeño y esfuerzo, donde poder aportar en lo maximo en Proyectos y en un equipo de trabajo.
 
 <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300px" align="right" style="padding:20px;border-radius:20%;">
 
 
-- 🌱 I’m currently learning as a Student in CIFP Francesc de Borja Moll
+- 🌱 I’m currently learning as a self-taught person in Java and its environment
 - 👯 I’m a proactive person who is guide by his passion on programming
-- 💬 Send me an email to: mgarciag@cifpfbmoll.eu or my personal email: mateog.g2001@gmail.com
+- 💬 Send me an email to my personal email: mateog.g2001@gmail.com
 - 📫 Find me in my [Linkedin](https://www.linkedin.com/in/mateogarciag)
 - ⚡ My projects while I've been a Student: [My Projects](https://github.com/MateoGarciaG?tab=repositories)
 
 <br>
 
 ##  ⚡ Programming Languages
-<img src="https://img.shields.io/badge/-Python-000?&logo=python" width="110px">
-
 <img src="https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=ddc508" width="130px">
 
 <img src="https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396" width="90px">
+
+<img src="https://img.shields.io/badge/-Python-000?&logo=python" width="110px">
 
 <img src="https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1" width="90px">
 
@@ -78,29 +77,19 @@ aportar en lo maximo en Proyectos y en un equipo de trabajo.
 <br>
 <img src="iconos_conocimientos/html5.svg" width="25px"> HTML5
 <br>
-<img src="iconos_conocimientos/flask.svg" width="25px"> Flask
-<br>
 <img src="iconos_conocimientos/mongodb.svg" width="25px"> MongoDB
 <br>
 <img src="iconos_conocimientos/apachemaven.svg" width="25px"> Maven
 <br>
 <img src="iconos_conocimientos/json.svg" width="25px"> JSON
-
 <br>
-
-### ⚡ Handle a Project
-- TDD - Test Driven Development
-- DDD - Domain Driven Design
-- Scrum - Agile Methodology
-- SOLID Principles
-- Defensive Programming
+... in process of work
 
 <br>
 
 ## ⚡ Technology Tools
 
 <br>
-
 
 <img src="herramientas_usadas/git.svg" width="25px"> GIT
 <br>
@@ -113,6 +102,8 @@ aportar en lo maximo en Proyectos y en un equipo de trabajo.
 <img src="herramientas_usadas/trello.svg" width="25px"> Trello
 <br>
 <img src="herramientas_usadas/slack.svg" width="25px"> Slack
+<br>
+... in process of work
 
 <br>
 

@@ -1,4 +1,6 @@
+
 <img src="Banner_github_profile.png"  style="padding:10px: margin:auto;">
+
 
 <!-- <p align="left">  
   <a href="https://www.linkedin.com/in/mateogarciag" align="left" style="padding:20px">

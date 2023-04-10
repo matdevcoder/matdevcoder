@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 </a> --> 
 
 <!-- <h1 align="center">Hi 👋, I'm Mateo Garcia</h1> -->
-<h3 align="center">Software Developer 👨‍💻</h3>
+<h2 align="center">Software Developer 👨‍💻</h2>
 
 ---
 

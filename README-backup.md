@@ -3,17 +3,17 @@
 
 
 <!-- <p align="left">  
-  <a href="https://www.linkedin.com/in/mateogarciag" align="left" style="padding:20px">
+  <a href="https://www.linkedin.com/in/matdevcoder" align="left" style="padding:20px">
   Linkedin Profile<img src="herramientas_usadas/linkedin.svg" alt="profile views" width="70px" align="left" style="padding-left:20px"></a>
 
-  <a href="https://github.com/MateoGarciaG/MateoGarciaG" style="padding:20px">README Curriculum Vitae</a>
+  <a href="https://github.com/matdevcoder/matdevcoder" style="padding:20px">README Curriculum Vitae</a>
 </p>
 
 <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300px" align="right"> -->
 
 
 <!--
-**MateoGarciaG/MateoGarciaG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**matdevcoder/matdevcoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -33,12 +33,12 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/-Linkedin Profile-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://mateogarciag.github.io/MateoGarciaG/" width="150px" style="padding:10px">
 </a>
 
-<a href="https://github.com/MateoGarciaG?tab=repositories">
-<img src="https://img.shields.io/badge/-GitHub Profile-grey?style=flat&logo=github&logoColor=white&link=https://github.com/MateoGarciaG?tab=repositories" width="130px" style="padding:10px">
+<a href="https://github.com/matdevcoder?tab=repositories">
+<img src="https://img.shields.io/badge/-GitHub Profile-grey?style=flat&logo=github&logoColor=white&link=https://github.com/matdevcoder?tab=repositories" width="130px" style="padding:10px">
 </a> -->
 
-<!-- <a href="https://mateogarciag.github.io/MateoGarciaG/">
-<img src="https://img.shields.io/badge/curriculum-vitae-blue?style=flat&link=https://github.com/MateoGarciaG?tab=repositories/" width="130px" style="padding:10px">
+<!-- <a href="https://matdevcoder.github.io/matdevcoder/">
+<img src="https://img.shields.io/badge/curriculum-vitae-blue?style=flat&link=https://github.com/matdevcoder?tab=repositories/" width="130px" style="padding:10px">
 </a> --> 
 
 <!-- <h1 align="center">Hi 👋, I'm Mateo Garcia</h1> -->
@@ -55,15 +55,15 @@ I present myself as a proactive person, with a good attitude and always ready to
 
 - 👯 I’m a proactive person who is guide by his passion on programming
 
-- 👨‍💻 All my personal projects are available at: [My Projects](https://github.com/MateoGarciaG?tab=repositories)
+- 👨‍💻 All my personal projects are available at: [My Projects](https://github.com/matdevcoder?tab=repositories)
 
-- ⚡ My projects while I was a Student: [My Projects](https://github.com/MateoGarciaG?tab=repositories)
+- ⚡ My projects while I was a Student: [My Projects](https://github.com/matdevcoder?tab=repositories)
 
 <br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href=https://www.linkedin.com/in/mateogarciag/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mateogarciag/" height="30" width="40" /></a>
+<a href=https://www.linkedin.com/in/matdevcoder/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/matdevcoder/" height="30" width="40" /></a>
 </p>
 
 <br>
@@ -107,11 +107,11 @@ I present myself as a proactive person, with a good attitude and always ready to
 
 <h4> Details about my GitHub </h4>
 
-<a href="https://github.com/MateoGarciaG?tab=repositories"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=MateoGarciaG&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+<a href="https://github.com/matdevcoder?tab=repositories"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=matdevcoder&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
 
-<img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateoGarciaG&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
+<img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matdevcoder&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
 
-<a href="https://github.com/MateoGarciaG?tab=repositories"><img src="https://metrics.lecoq.io/MateoGarciaG?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&config.timezone=Europe%2FMadrid" />
+<a href="https://github.com/matdevcoder?tab=repositories"><img src="https://metrics.lecoq.io/matdevcoder?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&config.timezone=Europe%2FMadrid" />
 
 <br>
 
